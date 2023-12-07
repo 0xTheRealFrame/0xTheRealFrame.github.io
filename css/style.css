@@ -1,0 +1,128 @@
+body {
+    font-family: 'DSemi', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.container-xl {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #1e1e1e;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+IndexHero_index-hero__J1AyL {
+    background-color: #1e1e1e;
+    color: white;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+IndexStats_index-stats__2PZZD {
+    background-color: #f5f5f5;
+    padding: 40px 0;
+}
+
+IndexStats_index-stats__heading__4V50Y {
+    color: #333;
+}
+
+.IndexStats_index-stats__card__KX4VC {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.IndexStats_index-stats__card__title__km6lq {
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.Footer_solFooter__h_NvK {
+    background-color: #1e1e1e;
+    color: white;
+    padding: 20px 0;
+}
+
+.Footer_solFooter__foundation-logo__ARoeV {
+    background: url('your-foundation-logo.png') no-repeat;
+    width: 150px;
+    height: 50px;
+}
+
+.Footer_solFooter__copyright__GkZM7 {
+    color: #888;
+}
+
+.list-unstyled li {
+    margin-bottom: 10px;
+}
+
+.dropdown--language {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-toggle {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.dropdown-toggle:focus {
+    outline: none;
+}
+
+.dropdown-toggle svg {
+    margin-left: 5px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 5px;
+    display: none;
+}
+
+.dropdown--language:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
